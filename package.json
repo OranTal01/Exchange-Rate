@@ -1,0 +1,9 @@
+{
+  "name": "exchange-rate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:OranTal01/Exchange-Rate.git",
+  "author": "oran <orantal01@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
